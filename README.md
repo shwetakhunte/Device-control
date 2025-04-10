@@ -2,7 +2,7 @@
 
 This is a PHP web application built using the Yii2 framework for collecting and monitoring device information using a public API and ping utility.
 
-## 📌 Features
+## Features
 
 - Add devices via IP address using a simple form
 - Fetch device details from external API: `https://api.incolumitas.com/`
@@ -16,7 +16,7 @@ This is a PHP web application built using the Yii2 framework for collecting and 
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - PHP
 - Yii2 (Basic Template)
@@ -26,7 +26,7 @@ This is a PHP web application built using the Yii2 framework for collecting and 
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
